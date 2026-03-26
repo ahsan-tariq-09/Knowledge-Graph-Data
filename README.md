@@ -1,6 +1,6 @@
 # Knowledge-Graph-Data
 
-This is one of self-compiled datasets used for my KG-RAG Experiment. Data is in .csv file in this repository
+This is one of self-compiled datasets used for my KG-RAG Experiment. Data is in .csv file in this repository. Not all of the data might be used.
 
 ## 📚 References
 
